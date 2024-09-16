@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ToDoTech:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToDoTech_jar</output-path>
+    <root id="archive" name="ToDoTech.jar">
+      <element id="module-output" name="ToDoTech" />
+    </root>
+  </artifact>
+</component>
